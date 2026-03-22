@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <e1Detector id="det_N" lane="N_in_0" pos="-50" freq="60" file="../output/detectors.xml" friendlyPos="true"/>
+    <e1Detector id="det_S" lane="S_in_0" pos="-50" freq="60" file="../output/detectors.xml" friendlyPos="true"/>
+    <e1Detector id="det_E" lane="E_in_0" pos="-50" freq="60" file="../output/detectors.xml" friendlyPos="true"/>
+    <e1Detector id="det_W" lane="W_in_0" pos="-50" freq="60" file="../output/detectors.xml" friendlyPos="true"/>
+</additional>
